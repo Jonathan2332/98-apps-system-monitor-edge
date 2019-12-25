@@ -1,7 +1,7 @@
 # ![](https://img.samsungapps.com/content/dll2s57rsg/2019/1224/ENG/CoverImage_20191224183115237.png?raw=true "System Monitor Edge")
 Este projeto foi idealizado apenas para fazer parte do meu portfólio como demonstração de experiência e aprendizado.
 
-**Por ser uma versão paga, o código não será disponibilizado aqui no GitHub.**
+**Por ser uma aplicativo pago, o código não será disponibilizado aqui no GitHub.**
 
 **[Demonstração do Projeto](http://apps.samsung.com/appquery/appDetail.as?appId=a98apps.monitoredge)** (Galaxy Store)
 
