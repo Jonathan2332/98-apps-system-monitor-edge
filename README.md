@@ -21,4 +21,5 @@ O System Monitor Edge é uma ferramenta de monitoramento. Ele mostra informaçõ
 * Java
 * [Edge(Look) SDK](https://developer.samsung.com/galaxy/edge) (SDK da Samsung utilizado para criar painéis edge)
 * [Glide](https://github.com/bumptech/glide) (Para trabalhar com GIF)
+* [Color Picker](https://github.com/jaredrummler/ColorPicker)
 
