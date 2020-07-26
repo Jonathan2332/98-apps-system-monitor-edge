@@ -9,7 +9,7 @@ Este projeto foi idealizado apenas para fazer parte do meu portfólio como demon
 
 ### O que é este projeto?
 
-O System Monitor Edge é uma ferramenta de monitoramento. Ele mostra informações sobre o sistema (CPU, Rede, Memória RAM, Armazenamento e Bateria), sendo uma ferramenta útil para usuários interessados em ver como o seu dispositivo está se comportando. Sua diferença é que ele é usado pelo painel edge, um recurso disponível em dispositivos Samsung (linha Galaxy S e Note). Este aplicativo foi desenvolvido utilizando o [SDK Edge(Look)](https://developer.samsung.com/galaxy/edge) da Samsung e é exclusivo para dispositivos Samsung que possuam a tela edge.
+O System Monitor Edge é uma ferramenta de monitoramento. Ele mostra informações sobre o sistema (CPU, GPU, Rede, Memória RAM, Armazenamento e Bateria), sendo uma ferramenta útil para usuários interessados em ver como o seu dispositivo está se comportando. Sua diferença é que ele é usado pelo painel edge, um recurso disponível em dispositivos Samsung (linha Galaxy S e Note). Este aplicativo foi desenvolvido utilizando o [SDK Edge(Look)](https://developer.samsung.com/galaxy/edge) da Samsung e é exclusivo para dispositivos Samsung que possuam a tela edge.
 
 ### O que foi utilizado:
 
