@@ -3,7 +3,7 @@ Este projeto foi idealizado apenas para fazer parte do meu portfólio como demon
 
 **Por ser um aplicativo pago, o código não será disponibilizado aqui no GitHub.**
 
-**[Demonstração do Projeto](http://apps.samsung.com/appquery/appDetail.as?appId=a98apps.monitoredge)** (Galaxy Store)
+<a href="https://galaxy.store/98System"><img src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_big/GalaxyStore_Portuguese(Brazil).png?3" alt="Available on Samsung Galaxy Store" width="250pt"></a>
 
 **Disponível apenas na Galaxy Store.**
 
